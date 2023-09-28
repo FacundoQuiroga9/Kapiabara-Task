@@ -56,7 +56,3 @@ Respuesta
 
 # Instalación y ejecución
 Funciona solo de manera local, ejecutando el archivo Interface.rb por consola.
-
-
-
-# Kapiabara-Task

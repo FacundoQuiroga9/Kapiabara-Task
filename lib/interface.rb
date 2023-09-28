@@ -1,4 +1,4 @@
-require_relative "kapibara"
+require_relative "task"
 
 keywords = []
 
@@ -16,4 +16,3 @@ text = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse con
 result = kapibaraSearchTool.search(text)
 
 puts result
-
